@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyselete",
+        "uuid": 2722275,
+        "checksum": "gbo91s"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
